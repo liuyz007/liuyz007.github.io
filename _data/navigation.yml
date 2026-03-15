@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Publications (发表论文)"
-    url: /publications/
+  # - title: "Publications (发表论文)"
+  #   url: /publications/
     
-  - title: "Portfolio (项目经历)"
-    url: /portfolio/
+  # - title: "Portfolio (项目经历)"
+  #   url: /portfolio/
     
   # 如果你以后想加一份 PDF 版的简历，可以把下面这两行前面的 # 删掉
   # - title: "CV (个人简历)"
