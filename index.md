@@ -23,8 +23,8 @@ I am currently actively seeking **full-time job opportunities** in Computer Visi
 ### 📝 Publications
 * **A Training-Free Low-Light Image Enhancement Framework via Content and Illumination Synergistic Guidance**
   * **Yongzhou Liu**, Xingbo Dong, Zhe Jin, Wen Sha*
-  * *Computers & Graphics*.**Accepted**, 2026.**
-  * **[**Paper**](https://www.sciencedirect.com/science/article/pii/S0097849326001470) 
+  * *Computers & Graphics*. **Accepted**, 2026.
+  * [**Paper**](https://www.sciencedirect.com/science/article/pii/S0097849326001470) 
   * *[Code will be available soon]*
     
 * **RawRWKV: An efficient raw image enhancement framework via RWKV architecture**
